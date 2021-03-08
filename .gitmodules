@@ -1,0 +1,6 @@
+[submodule "cmsis_core"]
+	path = cmsis_core
+	url = https://github.com/STMicroelectronics/cmsis_core
+[submodule "CMSIS"]
+	path = CMSIS
+	url = https://github.com/STMicroelectronics/cmsis_device_f4
